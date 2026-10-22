@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+node_modules/
+runs/
+data/
+*.db
+*.db-wal
+*.db-shm
+*.pem
+*.key
+.DS_Store
